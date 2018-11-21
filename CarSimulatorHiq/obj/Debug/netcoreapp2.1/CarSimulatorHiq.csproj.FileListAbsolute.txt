@@ -1,0 +1,12 @@
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\obj\Debug\netcoreapp2.1\CarSimulatorHiq.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\obj\Debug\netcoreapp2.1\CarSimulatorHiq.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\obj\Debug\netcoreapp2.1\CarSimulatorHiq.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\bin\Debug\netcoreapp2.1\CarSimulatorHiq.deps.json
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\bin\Debug\netcoreapp2.1\CarSimulatorHiq.runtimeconfig.json
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\bin\Debug\netcoreapp2.1\CarSimulatorHiq.runtimeconfig.dev.json
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\bin\Debug\netcoreapp2.1\CarSimulatorHiq.dll
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\bin\Debug\netcoreapp2.1\CarSimulatorHiq.pdb
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\obj\Debug\netcoreapp2.1\CarSimulatorHiq.dll
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\obj\Debug\netcoreapp2.1\CarSimulatorHiq.pdb
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\bin\Debug\netcoreapp2.1\Program.cs
+C:\Users\Oscar\source\repos\CarSimulatorHiq\CarSimulatorHiq\obj\Debug\netcoreapp2.1\CarSimulatorHiq.csprojAssemblyReference.cache
